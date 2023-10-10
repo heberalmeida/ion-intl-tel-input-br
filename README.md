@@ -2,6 +2,9 @@
 
 An Ionic component for International Phone Number Input, that allows all countries, validation with google phone lib, limited countries, preferred countries, virtual scrolling and much more.
 
+# pt-BR data list
+*** modification date pt-br placeholder ***
+
 ## Contents
 - [Interstellus Ionic International Telephone Input](#interstellus-ionic-international-telephone-input)
   * [Contents](#Contents)
