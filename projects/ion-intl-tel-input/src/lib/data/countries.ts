@@ -7,7 +7,7 @@ export const countries: CountryI[] = [
       dialCode: '93',
       flagClass: 'af',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Afeganistão'
     },
     {
       name: 'Albania',
@@ -15,7 +15,7 @@ export const countries: CountryI[] = [
       dialCode: '355',
       flagClass: 'al',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Albânia'
     },
     {
       name: 'Algeria',
@@ -23,7 +23,7 @@ export const countries: CountryI[] = [
       dialCode: '213',
       flagClass: 'dz',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Argélia'
     },
     {
       name: 'AmericanSamoa',
@@ -34,7 +34,7 @@ export const countries: CountryI[] = [
       areaCodes: [
         '684'
       ],
-      placeholder: ''
+      placeholder: 'Samoa Americana'
     },
     {
       name: 'Andorra',
@@ -42,7 +42,7 @@ export const countries: CountryI[] = [
       dialCode: '376',
       flagClass: 'ad',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Andorra'
     },
     {
       name: 'Angola',
@@ -50,7 +50,7 @@ export const countries: CountryI[] = [
       dialCode: '244',
       flagClass: 'ao',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Angola'
     },
     {
       name: 'Anguilla',
@@ -61,7 +61,7 @@ export const countries: CountryI[] = [
       areaCodes: [
         '264'
       ],
-      placeholder: ''
+      placeholder: 'Anguila'
     },
     {
       name: 'Antigua and Barbuda',
@@ -72,7 +72,7 @@ export const countries: CountryI[] = [
       areaCodes: [
         '268'
       ],
-      placeholder: ''
+      placeholder: 'Antígua e Barbuda'
     },
     {
       name: 'Argentina',
@@ -80,7 +80,7 @@ export const countries: CountryI[] = [
       dialCode: '54',
       flagClass: 'ar',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Argentina'
     },
     {
       name: 'Armenia',
@@ -88,7 +88,7 @@ export const countries: CountryI[] = [
       dialCode: '374',
       flagClass: 'am',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Armênia'
     },
     {
       name: 'Aruba',
@@ -96,7 +96,7 @@ export const countries: CountryI[] = [
       dialCode: '297',
       flagClass: 'aw',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Aruba'
     },
     {
       name: 'Australia',
@@ -104,7 +104,7 @@ export const countries: CountryI[] = [
       dialCode: '61',
       flagClass: 'au',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Austrália'
     },
     {
       name: 'Austria',
@@ -112,7 +112,7 @@ export const countries: CountryI[] = [
       dialCode: '43',
       flagClass: 'at',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Áustria'
     },
     {
       name: 'Azerbaijan',
@@ -120,7 +120,7 @@ export const countries: CountryI[] = [
       dialCode: '994',
       flagClass: 'az',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Azerbaijão'
     },
     {
       name: 'Bahamas',
@@ -128,10 +128,8 @@ export const countries: CountryI[] = [
       dialCode: '1 242',
       flagClass: 'bs',
       priority: 0,
-      areaCodes: [
-        '242'
-      ],
-      placeholder: ''
+      areaCodes: ['242'],
+      placeholder: 'Bahamas'
     },
     {
       name: 'Bahrain',
@@ -139,7 +137,7 @@ export const countries: CountryI[] = [
       dialCode: '973',
       flagClass: 'bh',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Bahrein'
     },
     {
       name: 'Bangladesh',
@@ -147,7 +145,7 @@ export const countries: CountryI[] = [
       dialCode: '880',
       flagClass: 'bd',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Bangladesh'
     },
     {
       name: 'Barbados',
@@ -155,10 +153,8 @@ export const countries: CountryI[] = [
       dialCode: '1 246',
       flagClass: 'bb',
       priority: 0,
-      areaCodes: [
-        '246'
-      ],
-      placeholder: ''
+      areaCodes: ['246'],
+      placeholder: 'Barbados'
     },
     {
       name: 'Belarus',
@@ -166,7 +162,7 @@ export const countries: CountryI[] = [
       dialCode: '375',
       flagClass: 'by',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Bielorrússia'
     },
     {
       name: 'Belgium',
@@ -174,7 +170,7 @@ export const countries: CountryI[] = [
       dialCode: '32',
       flagClass: 'be',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Bélgica'
     },
     {
       name: 'Belize',
@@ -182,7 +178,7 @@ export const countries: CountryI[] = [
       dialCode: '501',
       flagClass: 'bz',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Belize'
     },
     {
       name: 'Benin',
@@ -190,7 +186,7 @@ export const countries: CountryI[] = [
       dialCode: '229',
       flagClass: 'bj',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Benin'
     },
     {
       name: 'Bermuda',
@@ -198,10 +194,8 @@ export const countries: CountryI[] = [
       dialCode: '1 441',
       flagClass: 'bm',
       priority: 0,
-      areaCodes: [
-        '441'
-      ],
-      placeholder: ''
+      areaCodes: ['441'],
+      placeholder: 'Bermudas'
     },
     {
       name: 'Bhutan',
@@ -209,7 +203,7 @@ export const countries: CountryI[] = [
       dialCode: '975',
       flagClass: 'bt',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Butão'
     },
     {
       name: 'Bolivia, Plurinational State of',
@@ -217,7 +211,7 @@ export const countries: CountryI[] = [
       dialCode: '591',
       flagClass: 'bo',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Bolívia'
     },
     {
       name: 'Bosnia and Herzegovina',
@@ -225,7 +219,7 @@ export const countries: CountryI[] = [
       dialCode: '387',
       flagClass: 'ba',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Bósnia e Herzegovina'
     },
     {
       name: 'Botswana',
@@ -233,7 +227,7 @@ export const countries: CountryI[] = [
       dialCode: '267',
       flagClass: 'bw',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Botswana'
     },
     {
       name: 'Brazil',
@@ -241,7 +235,7 @@ export const countries: CountryI[] = [
       dialCode: '55',
       flagClass: 'br',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Brasil'
     },
     {
       name: 'British Indian Ocean Territory',
@@ -249,7 +243,7 @@ export const countries: CountryI[] = [
       dialCode: '246',
       flagClass: 'io',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Barbados'
     },
     {
       name: 'Virgin Islands, British',
@@ -257,10 +251,8 @@ export const countries: CountryI[] = [
       dialCode: '1 284',
       flagClass: 'vg',
       priority: 0,
-      areaCodes: [
-        '284'
-      ],
-      placeholder: ''
+      areaCodes: ['284'],
+      placeholder: 'Ilhas Virgens Britânicas'
     },
     {
       name: 'Brunei Darussalam',
@@ -268,7 +260,7 @@ export const countries: CountryI[] = [
       dialCode: '673',
       flagClass: 'bn',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Brunei'
     },
     {
       name: 'Bulgaria',
@@ -276,7 +268,7 @@ export const countries: CountryI[] = [
       dialCode: '359',
       flagClass: 'bg',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Bulgária'
     },
     {
       name: 'Burkina Faso',
@@ -284,7 +276,7 @@ export const countries: CountryI[] = [
       dialCode: '226',
       flagClass: 'bf',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Burkina Faso'
     },
     {
       name: 'Burundi',
@@ -292,7 +284,7 @@ export const countries: CountryI[] = [
       dialCode: '257',
       flagClass: 'bi',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Burundi'
     },
     {
       name: 'Cambodia',
@@ -300,7 +292,7 @@ export const countries: CountryI[] = [
       dialCode: '855',
       flagClass: 'kh',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Camboja'
     },
     {
       name: 'Cameroon',
@@ -308,7 +300,7 @@ export const countries: CountryI[] = [
       dialCode: '237',
       flagClass: 'cm',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Camarões'
     },
     {
       name: 'Canada',
@@ -360,7 +352,7 @@ export const countries: CountryI[] = [
         '902',
         '905'
       ],
-      placeholder: ''
+      placeholder: 'Canadá'
     },
     {
       name: 'Cape Verde',
@@ -368,7 +360,7 @@ export const countries: CountryI[] = [
       dialCode: '238',
       flagClass: 'cv',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Cabo Verde'
     },
     {
       name: 'Cayman Islands',
@@ -376,10 +368,8 @@ export const countries: CountryI[] = [
       dialCode: ' 345',
       flagClass: 'ky',
       priority: 0,
-      areaCodes: [
-        '345'
-      ],
-      placeholder: ''
+      areaCodes: ['345'],
+      placeholder: 'Ilhas Cayman'
     },
     {
       name: 'Central African Republic',
@@ -387,7 +377,7 @@ export const countries: CountryI[] = [
       dialCode: '236',
       flagClass: 'cf',
       priority: 0,
-      placeholder: ''
+      placeholder: 'República Centro-Africana'
     },
     {
       name: 'Chad',
@@ -395,7 +385,7 @@ export const countries: CountryI[] = [
       dialCode: '235',
       flagClass: 'td',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Chade'
     },
     {
       name: 'Chile',
@@ -403,7 +393,7 @@ export const countries: CountryI[] = [
       dialCode: '56',
       flagClass: 'cl',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Chile'
     },
     {
       name: 'China',
@@ -411,7 +401,7 @@ export const countries: CountryI[] = [
       dialCode: '86',
       flagClass: 'cn',
       priority: 0,
-      placeholder: ''
+      placeholder: 'China'
     },
     {
       name: 'Christmas Island',
@@ -419,7 +409,7 @@ export const countries: CountryI[] = [
       dialCode: '61',
       flagClass: 'cx',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Austrália'
     },
     {
       name: 'Cocos (Keeling) Islands',
@@ -427,7 +417,7 @@ export const countries: CountryI[] = [
       dialCode: '61',
       flagClass: 'cc',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Austrália'
     },
     {
       name: 'Colombia',
@@ -435,7 +425,7 @@ export const countries: CountryI[] = [
       dialCode: '57',
       flagClass: 'co',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Colômbia'
     },
     {
       name: 'Comoros',
@@ -443,7 +433,7 @@ export const countries: CountryI[] = [
       dialCode: '269',
       flagClass: 'km',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Comores'
     },
     {
       name: 'Congo, The Democratic Republic of the Congo',
@@ -451,7 +441,7 @@ export const countries: CountryI[] = [
       dialCode: '243',
       flagClass: 'cd',
       priority: 0,
-      placeholder: ''
+      placeholder: 'República Democrática do Congo'
     },
     {
       name: 'Congo',
@@ -459,7 +449,7 @@ export const countries: CountryI[] = [
       dialCode: '242',
       flagClass: 'cg',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Congo'
     },
     {
       name: 'Cook Islands',
@@ -467,7 +457,7 @@ export const countries: CountryI[] = [
       dialCode: '682',
       flagClass: 'ck',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Ilhas Cook'
     },
     {
       name: 'Costa Rica',
@@ -475,7 +465,7 @@ export const countries: CountryI[] = [
       dialCode: '506',
       flagClass: 'cr',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Costa Rica'
     },
     {
       name: 'Cote d\'Ivoire',
@@ -483,7 +473,7 @@ export const countries: CountryI[] = [
       dialCode: '225',
       flagClass: 'ci',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Costa do Marfim'
     },
     {
       name: 'Croatia',
@@ -491,7 +481,7 @@ export const countries: CountryI[] = [
       dialCode: '385',
       flagClass: 'hr',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Croácia'
     },
     {
       name: 'Cuba',
@@ -499,7 +489,7 @@ export const countries: CountryI[] = [
       dialCode: '53',
       flagClass: 'cu',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Cuba'
     },
     {
       name: 'Cyprus',
@@ -507,7 +497,7 @@ export const countries: CountryI[] = [
       dialCode: '357',
       flagClass: 'cy',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Chipre'
     },
     {
       name: 'Czech Republic',
@@ -515,7 +505,7 @@ export const countries: CountryI[] = [
       dialCode: '420',
       flagClass: 'cz',
       priority: 0,
-      placeholder: ''
+      placeholder: 'República Tcheca'
     },
     {
       name: 'Denmark',
@@ -523,7 +513,7 @@ export const countries: CountryI[] = [
       dialCode: '45',
       flagClass: 'dk',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Dinamarca'
     },
     {
       name: 'Djibouti',
@@ -531,7 +521,7 @@ export const countries: CountryI[] = [
       dialCode: '253',
       flagClass: 'dj',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Djibuti'
     },
     {
       name: 'Dominica',
@@ -539,7 +529,7 @@ export const countries: CountryI[] = [
       dialCode: '1 767',
       flagClass: 'dm',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Dominica'
     },
     {
       name: 'Dominican Republic',
@@ -547,12 +537,8 @@ export const countries: CountryI[] = [
       dialCode: '1 849',
       flagClass: 'do',
       priority: 0,
-      areaCodes: [
-        '809',
-        '829',
-        '849'
-      ],
-      placeholder: ''
+      areaCodes: ['809', '829', '849'],
+      placeholder: 'República Dominicana'
     },
     {
       name: 'Ecuador',
@@ -560,7 +546,7 @@ export const countries: CountryI[] = [
       dialCode: '593',
       flagClass: 'ec',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Equador'
     },
     {
       name: 'Egypt',
@@ -568,7 +554,7 @@ export const countries: CountryI[] = [
       dialCode: '20',
       flagClass: 'eg',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Egito'
     },
     {
       name: 'El Salvador',
@@ -576,7 +562,7 @@ export const countries: CountryI[] = [
       dialCode: '503',
       flagClass: 'sv',
       priority: 0,
-      placeholder: ''
+      placeholder: 'El Salvador'
     },
     {
       name: 'Equatorial Guinea',
@@ -584,7 +570,7 @@ export const countries: CountryI[] = [
       dialCode: '240',
       flagClass: 'gq',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Guiné Equatorial'
     },
     {
       name: 'Eritrea',
@@ -592,7 +578,7 @@ export const countries: CountryI[] = [
       dialCode: '291',
       flagClass: 'er',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Eritreia'
     },
     {
       name: 'Estonia',
@@ -600,7 +586,7 @@ export const countries: CountryI[] = [
       dialCode: '372',
       flagClass: 'ee',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Estônia'
     },
     {
       name: 'Ethiopia',
@@ -608,7 +594,7 @@ export const countries: CountryI[] = [
       dialCode: '251',
       flagClass: 'et',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Etiópia'
     },
     {
       name: 'Falkland Islands (Malvinas)',
@@ -616,7 +602,7 @@ export const countries: CountryI[] = [
       dialCode: '500',
       flagClass: 'fk',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Ilhas Malvinas'
     },
     {
       name: 'Faroe Islands',
@@ -624,7 +610,7 @@ export const countries: CountryI[] = [
       dialCode: '298',
       flagClass: 'fo',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Ilhas Faroe'
     },
     {
       name: 'Fiji',
@@ -632,7 +618,7 @@ export const countries: CountryI[] = [
       dialCode: '679',
       flagClass: 'fj',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Fiji'
     },
     {
       name: 'Finland',
@@ -640,7 +626,7 @@ export const countries: CountryI[] = [
       dialCode: '358',
       flagClass: 'fi',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Finlândia'
     },
     {
       name: 'France',
@@ -648,7 +634,7 @@ export const countries: CountryI[] = [
       dialCode: '33',
       flagClass: 'fr',
       priority: 0,
-      placeholder: ''
+      placeholder: 'França'
     },
     {
       name: 'French Guiana',
@@ -656,7 +642,7 @@ export const countries: CountryI[] = [
       dialCode: '594',
       flagClass: 'gf',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Guiana Francesa'
     },
     {
       name: 'French Polynesia',
@@ -664,7 +650,7 @@ export const countries: CountryI[] = [
       dialCode: '689',
       flagClass: 'pf',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Polinésia Francesa'
     },
     {
       name: 'Gabon',
@@ -672,7 +658,7 @@ export const countries: CountryI[] = [
       dialCode: '241',
       flagClass: 'ga',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Gabão'
     },
     {
       name: 'Gambia',
@@ -680,7 +666,7 @@ export const countries: CountryI[] = [
       dialCode: '220',
       flagClass: 'gm',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Gâmbia'
     },
     {
       name: 'Georgia',
@@ -688,7 +674,7 @@ export const countries: CountryI[] = [
       dialCode: '995',
       flagClass: 'ge',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Geórgia'
     },
     {
       name: 'Germany',
@@ -696,7 +682,7 @@ export const countries: CountryI[] = [
       dialCode: '49',
       flagClass: 'de',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Alemanha'
     },
     {
       name: 'Ghana',
@@ -704,7 +690,7 @@ export const countries: CountryI[] = [
       dialCode: '233',
       flagClass: 'gh',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Gana'
     },
     {
       name: 'Gibraltar',
@@ -712,7 +698,7 @@ export const countries: CountryI[] = [
       dialCode: '350',
       flagClass: 'gi',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Gibraltar'
     },
     {
       name: 'Greece',
@@ -720,7 +706,7 @@ export const countries: CountryI[] = [
       dialCode: '30',
       flagClass: 'gr',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Grécia'
     },
     {
       name: 'Greenland',
@@ -728,7 +714,7 @@ export const countries: CountryI[] = [
       dialCode: '299',
       flagClass: 'gl',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Groelândia'
     },
     {
       name: 'Grenada',
@@ -736,7 +722,7 @@ export const countries: CountryI[] = [
       dialCode: '1 473',
       flagClass: 'gd',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Granada'
     },
     {
       name: 'Guadeloupe',
@@ -744,7 +730,7 @@ export const countries: CountryI[] = [
       dialCode: '590',
       flagClass: 'gp',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Guadalupe'
     },
     {
       name: 'Guam',
@@ -752,10 +738,8 @@ export const countries: CountryI[] = [
       dialCode: '1 671',
       flagClass: 'gu',
       priority: 0,
-      areaCodes: [
-        '671'
-      ],
-      placeholder: ''
+      areaCodes: ['671'],
+      placeholder: 'Guam'
     },
     {
       name: 'Guatemala',
@@ -763,7 +747,7 @@ export const countries: CountryI[] = [
       dialCode: '502',
       flagClass: 'gt',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Guatemala'
     },
     {
       name: 'Guernsey',
@@ -771,10 +755,8 @@ export const countries: CountryI[] = [
       dialCode: '44',
       flagClass: 'gg',
       priority: 0,
-      areaCodes: [
-        '1481'
-      ],
-      placeholder: ''
+      areaCodes: ['1481'],
+      placeholder: 'Reino Unido'
     },
     {
       name: 'Guinea',
@@ -782,7 +764,7 @@ export const countries: CountryI[] = [
       dialCode: '224',
       flagClass: 'gn',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Guiné'
     },
     {
       name: 'Guinea-Bissau',
@@ -790,7 +772,7 @@ export const countries: CountryI[] = [
       dialCode: '245',
       flagClass: 'gw',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Guiné-Bissau'
     },
     {
       name: 'Guyana',
@@ -798,7 +780,7 @@ export const countries: CountryI[] = [
       dialCode: '595',
       flagClass: 'gy',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Paraguai'
     },
     {
       name: 'Haiti',
@@ -806,7 +788,7 @@ export const countries: CountryI[] = [
       dialCode: '509',
       flagClass: 'ht',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Haiti'
     },
     {
       name: 'Honduras',
@@ -814,7 +796,7 @@ export const countries: CountryI[] = [
       dialCode: '504',
       flagClass: 'hn',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Honduras'
     },
     {
       name: 'Hong Kong',
@@ -822,7 +804,7 @@ export const countries: CountryI[] = [
       dialCode: '852',
       flagClass: 'hk',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Hong Kong'
     },
     {
       name: 'Hungary',
@@ -830,7 +812,7 @@ export const countries: CountryI[] = [
       dialCode: '36',
       flagClass: 'hu',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Hungria'
     },
     {
       name: 'Iceland',
@@ -838,7 +820,7 @@ export const countries: CountryI[] = [
       dialCode: '354',
       flagClass: 'is',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Islândia'
     },
     {
       name: 'India',
@@ -846,7 +828,7 @@ export const countries: CountryI[] = [
       dialCode: '91',
       flagClass: 'in',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Índia'
     },
     {
       name: 'Indonesia',
@@ -854,7 +836,7 @@ export const countries: CountryI[] = [
       dialCode: '62',
       flagClass: 'id',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Indonésia'
     },
     {
       name: 'Iran, Islamic Republic of Persian Gulf',
@@ -862,7 +844,7 @@ export const countries: CountryI[] = [
       dialCode: '98',
       flagClass: 'ir',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Iran'
     },
     {
       name: 'Iraq',
@@ -870,7 +852,7 @@ export const countries: CountryI[] = [
       dialCode: '964',
       flagClass: 'iq',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Iraque'
     },
     {
       name: 'Ireland',
@@ -878,7 +860,7 @@ export const countries: CountryI[] = [
       dialCode: '353',
       flagClass: 'ie',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Irlanda'
     },
     {
       name: 'Isle of Man',
@@ -886,10 +868,8 @@ export const countries: CountryI[] = [
       dialCode: '44',
       flagClass: 'im',
       priority: 0,
-      areaCodes: [
-        '1624'
-      ],
-      placeholder: ''
+      areaCodes: ['1624'],
+      placeholder: 'Reino Unido'
     },
     {
       name: 'Israel',
@@ -897,7 +877,7 @@ export const countries: CountryI[] = [
       dialCode: '972',
       flagClass: 'il',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Israel'
     },
     {
       name: 'Italy',
@@ -905,7 +885,7 @@ export const countries: CountryI[] = [
       dialCode: '39',
       flagClass: 'it',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Vaticano'
     },
     {
       name: 'Jamaica',
@@ -913,10 +893,8 @@ export const countries: CountryI[] = [
       dialCode: '1 876',
       flagClass: 'jm',
       priority: 0,
-      areaCodes: [
-        '876'
-      ],
-      placeholder: ''
+      areaCodes: ['876'],
+      placeholder: 'Jamaica'
     },
     {
       name: 'Japan',
@@ -924,7 +902,7 @@ export const countries: CountryI[] = [
       dialCode: '81',
       flagClass: 'jp',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Japão'
     },
     {
       name: 'Jersey',
@@ -932,10 +910,8 @@ export const countries: CountryI[] = [
       dialCode: '44',
       flagClass: 'je',
       priority: 0,
-      areaCodes: [
-        '1534'
-      ],
-      placeholder: ''
+      areaCodes: ['1534'],
+      placeholder: 'Reino Unido'
     },
     {
       name: 'Jordan',
@@ -943,7 +919,7 @@ export const countries: CountryI[] = [
       dialCode: '962',
       flagClass: 'jo',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Jornânia'
     },
     {
       name: 'Kazakhstan',
@@ -951,7 +927,7 @@ export const countries: CountryI[] = [
       dialCode: '7 7',
       flagClass: 'kz',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Cazaquistão'
     },
     {
       name: 'Kenya',
@@ -959,7 +935,7 @@ export const countries: CountryI[] = [
       dialCode: '254',
       flagClass: 'ke',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Quênia'
     },
     {
       name: 'Kiribati',
@@ -967,7 +943,7 @@ export const countries: CountryI[] = [
       dialCode: '686',
       flagClass: 'ki',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Kiribati'
     },
     {
       name: 'Kuwait',
@@ -975,7 +951,7 @@ export const countries: CountryI[] = [
       dialCode: '965',
       flagClass: 'kw',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Kuwait'
     },
     {
       name: 'Kyrgyzstan',
@@ -983,7 +959,7 @@ export const countries: CountryI[] = [
       dialCode: '996',
       flagClass: 'kg',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Quirguistão'
     },
     {
       name: 'Laos',
@@ -991,7 +967,7 @@ export const countries: CountryI[] = [
       dialCode: '856',
       flagClass: 'la',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Laos'
     },
     {
       name: 'Latvia',
@@ -999,7 +975,7 @@ export const countries: CountryI[] = [
       dialCode: '371',
       flagClass: 'lv',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Letônia'
     },
     {
       name: 'Lebanon',
@@ -1007,7 +983,7 @@ export const countries: CountryI[] = [
       dialCode: '961',
       flagClass: 'lb',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Líbano'
     },
     {
       name: 'Lesotho',
@@ -1015,7 +991,7 @@ export const countries: CountryI[] = [
       dialCode: '266',
       flagClass: 'ls',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Lesoto'
     },
     {
       name: 'Liberia',
@@ -1023,7 +999,7 @@ export const countries: CountryI[] = [
       dialCode: '231',
       flagClass: 'lr',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Libéria'
     },
     {
       name: 'Libyan Arab Jamahiriya',
@@ -1031,7 +1007,7 @@ export const countries: CountryI[] = [
       dialCode: '218',
       flagClass: 'ly',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Líbia'
     },
     {
       name: 'Liechtenstein',
@@ -1039,7 +1015,7 @@ export const countries: CountryI[] = [
       dialCode: '423',
       flagClass: 'li',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Liechtenstein'
     },
     {
       name: 'Lithuania',
@@ -1047,7 +1023,7 @@ export const countries: CountryI[] = [
       dialCode: '370',
       flagClass: 'lt',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Lituânia'
     },
     {
       name: 'Luxembourg',
@@ -1055,7 +1031,7 @@ export const countries: CountryI[] = [
       dialCode: '352',
       flagClass: 'lu',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Luxemburgo'
     },
     {
       name: 'Macao',
@@ -1063,7 +1039,7 @@ export const countries: CountryI[] = [
       dialCode: '853',
       flagClass: 'mo',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Macao'
     },
     {
       name: 'Macedonia',
@@ -1071,7 +1047,7 @@ export const countries: CountryI[] = [
       dialCode: '389',
       flagClass: 'mk',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Macedônia'
     },
     {
       name: 'Madagascar',
@@ -1079,7 +1055,7 @@ export const countries: CountryI[] = [
       dialCode: '261',
       flagClass: 'mg',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Madagascar'
     },
     {
       name: 'Malawi',
@@ -1087,7 +1063,7 @@ export const countries: CountryI[] = [
       dialCode: '265',
       flagClass: 'mw',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Malawi'
     },
     {
       name: 'Malaysia',
@@ -1095,7 +1071,7 @@ export const countries: CountryI[] = [
       dialCode: '60',
       flagClass: 'my',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Malásia'
     },
     {
       name: 'Maldives',
@@ -1103,7 +1079,7 @@ export const countries: CountryI[] = [
       dialCode: '960',
       flagClass: 'mv',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Maldivas'
     },
     {
       name: 'Mali',
@@ -1111,7 +1087,7 @@ export const countries: CountryI[] = [
       dialCode: '223',
       flagClass: 'ml',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Mali'
     },
     {
       name: 'Malta',
@@ -1119,7 +1095,7 @@ export const countries: CountryI[] = [
       dialCode: '356',
       flagClass: 'mt',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Malta'
     },
     {
       name: 'Marshall Islands',
@@ -1127,7 +1103,7 @@ export const countries: CountryI[] = [
       dialCode: '692',
       flagClass: 'mh',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Ilhas Marshall'
     },
     {
       name: 'Martinique',
@@ -1135,7 +1111,7 @@ export const countries: CountryI[] = [
       dialCode: '596',
       flagClass: 'mq',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Martinica'
     },
     {
       name: 'Mauritania',
@@ -1143,7 +1119,7 @@ export const countries: CountryI[] = [
       dialCode: '222',
       flagClass: 'mr',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Mauritânia'
     },
     {
       name: 'Mauritius',
@@ -1151,7 +1127,7 @@ export const countries: CountryI[] = [
       dialCode: '230',
       flagClass: 'mu',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Maurício'
     },
     {
       name: 'Mayotte',
@@ -1159,7 +1135,7 @@ export const countries: CountryI[] = [
       dialCode: '262',
       flagClass: 'yt',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Reunião'
     },
     {
       name: 'Mexico',
@@ -1167,7 +1143,7 @@ export const countries: CountryI[] = [
       dialCode: '52',
       flagClass: 'mx',
       priority: 0,
-      placeholder: ''
+      placeholder: 'México'
     },
     {
       name: 'Micronesia, Federated States of Micronesia',
@@ -1175,7 +1151,7 @@ export const countries: CountryI[] = [
       dialCode: '691',
       flagClass: 'fm',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Micronésia'
     },
     {
       name: 'Moldova',
@@ -1183,7 +1159,7 @@ export const countries: CountryI[] = [
       dialCode: '373',
       flagClass: 'md',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Moldova'
     },
     {
       name: 'Monaco',
@@ -1191,7 +1167,7 @@ export const countries: CountryI[] = [
       dialCode: '377',
       flagClass: 'mc',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Mônaco'
     },
     {
       name: 'Mongolia',
@@ -1199,7 +1175,7 @@ export const countries: CountryI[] = [
       dialCode: '976',
       flagClass: 'mn',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Mongólia'
     },
     {
       name: 'Montenegro',
@@ -1207,7 +1183,7 @@ export const countries: CountryI[] = [
       dialCode: '382',
       flagClass: 'me',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Montenegro'
     },
     {
       name: 'Montserrat',
@@ -1215,10 +1191,8 @@ export const countries: CountryI[] = [
       dialCode: '1664',
       flagClass: 'ms',
       priority: 0,
-      areaCodes: [
-        '664'
-      ],
-      placeholder: ''
+      areaCodes: ['664'],
+      placeholder: 'Montserrat'
     },
     {
       name: 'Morocco',
@@ -1226,7 +1200,7 @@ export const countries: CountryI[] = [
       dialCode: '212',
       flagClass: 'ma',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Marrocos'
     },
     {
       name: 'Mozambique',
@@ -1234,7 +1208,7 @@ export const countries: CountryI[] = [
       dialCode: '258',
       flagClass: 'mz',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Moçambique'
     },
     {
       name: 'Myanmar',
@@ -1242,7 +1216,7 @@ export const countries: CountryI[] = [
       dialCode: '95',
       flagClass: 'mm',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Birmânia'
     },
     {
       name: 'Namibia',
@@ -1250,7 +1224,7 @@ export const countries: CountryI[] = [
       dialCode: '264',
       flagClass: 'na',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Namíbia'
     },
     {
       name: 'Nauru',
@@ -1258,7 +1232,7 @@ export const countries: CountryI[] = [
       dialCode: '674',
       flagClass: 'nr',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Nauru'
     },
     {
       name: 'Nepal',
@@ -1266,7 +1240,7 @@ export const countries: CountryI[] = [
       dialCode: '977',
       flagClass: 'np',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Nepal'
     },
     {
       name: 'Netherlands',
@@ -1274,7 +1248,7 @@ export const countries: CountryI[] = [
       dialCode: '31',
       flagClass: 'nl',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Holanda'
     },
     {
       name: 'New Caledonia',
@@ -1282,7 +1256,7 @@ export const countries: CountryI[] = [
       dialCode: '687',
       flagClass: 'nc',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Nova Caledônia'
     },
     {
       name: 'New Zealand',
@@ -1290,7 +1264,7 @@ export const countries: CountryI[] = [
       dialCode: '64',
       flagClass: 'nz',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Nova Zelândia'
     },
     {
       name: 'Nicaragua',
@@ -1298,7 +1272,7 @@ export const countries: CountryI[] = [
       dialCode: '505',
       flagClass: 'ni',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Nicarágua'
     },
     {
       name: 'Niger',
@@ -1306,7 +1280,7 @@ export const countries: CountryI[] = [
       dialCode: '227',
       flagClass: 'ne',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Niger'
     },
     {
       name: 'Nigeria',
@@ -1314,7 +1288,7 @@ export const countries: CountryI[] = [
       dialCode: '234',
       flagClass: 'ng',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Nigéria'
     },
     {
       name: 'Niue',
@@ -1322,7 +1296,7 @@ export const countries: CountryI[] = [
       dialCode: '683',
       flagClass: 'nu',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Niue'
     },
     {
       name: 'Norfolk Island',
@@ -1330,7 +1304,7 @@ export const countries: CountryI[] = [
       dialCode: '672',
       flagClass: 'nf',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Antártida'
     },
     {
       name: 'Korea, Democratic People\'s Republic of Korea',
@@ -1338,7 +1312,7 @@ export const countries: CountryI[] = [
       dialCode: '850',
       flagClass: 'kp',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Coreia do Norte'
     },
     {
       name: 'Northern Mariana Islands',
@@ -1346,7 +1320,7 @@ export const countries: CountryI[] = [
       dialCode: '1 670',
       flagClass: 'mp',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Ilhas Marianas do Norte'
     },
     {
       name: 'Norway',
@@ -1354,7 +1328,7 @@ export const countries: CountryI[] = [
       dialCode: '47',
       flagClass: 'no',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Ilha Bouvet'
     },
     {
       name: 'Oman',
@@ -1362,7 +1336,7 @@ export const countries: CountryI[] = [
       dialCode: '968',
       flagClass: 'om',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Omã'
     },
     {
       name: 'Pakistan',
@@ -1370,7 +1344,7 @@ export const countries: CountryI[] = [
       dialCode: '92',
       flagClass: 'pk',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Paquistão'
     },
     {
       name: 'Palau',
@@ -1378,7 +1352,7 @@ export const countries: CountryI[] = [
       dialCode: '680',
       flagClass: 'pw',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Palau'
     },
     {
       name: 'Palestinian Territory, Occupied',
@@ -1386,7 +1360,7 @@ export const countries: CountryI[] = [
       dialCode: '970',
       flagClass: 'ps',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Palestina'
     },
     {
       name: 'Panama',
@@ -1394,7 +1368,7 @@ export const countries: CountryI[] = [
       dialCode: '507',
       flagClass: 'pa',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Panamá'
     },
     {
       name: 'Papua New Guinea',
@@ -1402,7 +1376,7 @@ export const countries: CountryI[] = [
       dialCode: '675',
       flagClass: 'pg',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Papua-Nova Guiné'
     },
     {
       name: 'Paraguay',
@@ -1410,7 +1384,7 @@ export const countries: CountryI[] = [
       dialCode: '595',
       flagClass: 'py',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Paraguai'
     },
     {
       name: 'Peru',
@@ -1418,7 +1392,7 @@ export const countries: CountryI[] = [
       dialCode: '51',
       flagClass: 'pe',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Peru'
     },
     {
       name: 'Philippines',
@@ -1426,7 +1400,7 @@ export const countries: CountryI[] = [
       dialCode: '63',
       flagClass: 'ph',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Filipinas'
     },
     {
       name: 'Poland',
@@ -1434,7 +1408,7 @@ export const countries: CountryI[] = [
       dialCode: '48',
       flagClass: 'pl',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Polônia'
     },
     {
       name: 'Portugal',
@@ -1442,7 +1416,7 @@ export const countries: CountryI[] = [
       dialCode: '351',
       flagClass: 'pt',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Portugal'
     },
     {
       name: 'Puerto Rico',
@@ -1450,11 +1424,8 @@ export const countries: CountryI[] = [
       dialCode: '1 939',
       flagClass: 'pr',
       priority: 0,
-      areaCodes: [
-        '787',
-        '939'
-      ],
-      placeholder: ''
+      areaCodes: ['787', '939'],
+      placeholder: 'Porto Rico'
     },
     {
       name: 'Qatar',
@@ -1462,7 +1433,7 @@ export const countries: CountryI[] = [
       dialCode: '974',
       flagClass: 'qa',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Catar'
     },
     {
       name: 'Reunion',
@@ -1470,7 +1441,7 @@ export const countries: CountryI[] = [
       dialCode: '262',
       flagClass: 're',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Reunião'
     },
     {
       name: 'Romania',
@@ -1478,7 +1449,7 @@ export const countries: CountryI[] = [
       dialCode: '40',
       flagClass: 'ro',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Romênia'
     },
     {
       name: 'Russia',
@@ -1486,7 +1457,7 @@ export const countries: CountryI[] = [
       dialCode: '7',
       flagClass: 'ru',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Cazaquistão'
     },
     {
       name: 'Rwanda',
@@ -1494,7 +1465,7 @@ export const countries: CountryI[] = [
       dialCode: '250',
       flagClass: 'rw',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Ruanda'
     },
     {
       name: 'Saint Barthelemy',
@@ -1502,7 +1473,7 @@ export const countries: CountryI[] = [
       dialCode: '590',
       flagClass: 'bl',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Guadalupe'
     },
     {
       name: 'Saint Helena, Ascension and Tristan Da Cunha',
@@ -1510,7 +1481,7 @@ export const countries: CountryI[] = [
       dialCode: '290',
       flagClass: 'sh',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Santa Helena'
     },
     {
       name: 'Saint Kitts and Nevis',
@@ -1518,7 +1489,7 @@ export const countries: CountryI[] = [
       dialCode: '1 869',
       flagClass: 'kn',
       priority: 0,
-      placeholder: ''
+      placeholder: 'São Cristóvão e Névis'
     },
     {
       name: 'Saint Lucia',
@@ -1526,10 +1497,8 @@ export const countries: CountryI[] = [
       dialCode: '1 758',
       flagClass: 'lc',
       priority: 0,
-      areaCodes: [
-        '758'
-      ],
-      placeholder: ''
+      areaCodes: ['758'],
+      placeholder: 'Santa Lúcia'
     },
     {
       name: 'Saint Martin',
@@ -1537,7 +1506,7 @@ export const countries: CountryI[] = [
       dialCode: '590',
       flagClass: 'mf',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Guadalupe'
     },
     {
       name: 'Saint Pierre and Miquelon',
@@ -1545,7 +1514,7 @@ export const countries: CountryI[] = [
       dialCode: '508',
       flagClass: 'pm',
       priority: 0,
-      placeholder: ''
+      placeholder: 'São Pedro e Miquelon'
     },
     {
       name: 'Saint Vincent and the Grenadines',
@@ -1553,10 +1522,8 @@ export const countries: CountryI[] = [
       dialCode: '1 784',
       flagClass: 'vc',
       priority: 0,
-      areaCodes: [
-        '784'
-      ],
-      placeholder: ''
+      areaCodes: ['784'],
+      placeholder: 'São Vicente e Granadinas'
     },
     {
       name: 'Samoa',
@@ -1564,7 +1531,7 @@ export const countries: CountryI[] = [
       dialCode: '685',
       flagClass: 'ws',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Samoa'
     },
     {
       name: 'San Marino',
@@ -1572,7 +1539,7 @@ export const countries: CountryI[] = [
       dialCode: '378',
       flagClass: 'sm',
       priority: 0,
-      placeholder: ''
+      placeholder: 'São Marino'
     },
     {
       name: 'Sao Tome and Principe',
@@ -1580,7 +1547,7 @@ export const countries: CountryI[] = [
       dialCode: '239',
       flagClass: 'st',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Sao Tomé e Príncipe'
     },
     {
       name: 'Saudi Arabia',
@@ -1588,7 +1555,7 @@ export const countries: CountryI[] = [
       dialCode: '966',
       flagClass: 'sa',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Arábia Saudita'
     },
     {
       name: 'Senegal',
@@ -1596,7 +1563,7 @@ export const countries: CountryI[] = [
       dialCode: '221',
       flagClass: 'sn',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Senegal'
     },
     {
       name: 'Serbia',
@@ -1604,7 +1571,7 @@ export const countries: CountryI[] = [
       dialCode: '381',
       flagClass: 'rs',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Sérvia e Montenegro'
     },
     {
       name: 'Seychelles',
@@ -1612,7 +1579,7 @@ export const countries: CountryI[] = [
       dialCode: '248',
       flagClass: 'sc',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Seicheles'
     },
     {
       name: 'Sierra Leone',
@@ -1620,7 +1587,7 @@ export const countries: CountryI[] = [
       dialCode: '232',
       flagClass: 'sl',
       priority: 0,
-      placeholder: ''
+      placeholder: 'República da Serra Leoa'
     },
     {
       name: 'Singapore',
@@ -1628,7 +1595,7 @@ export const countries: CountryI[] = [
       dialCode: '65',
       flagClass: 'sg',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Singapura'
     },
     {
       name: 'Slovakia',
@@ -1636,7 +1603,7 @@ export const countries: CountryI[] = [
       dialCode: '421',
       flagClass: 'sk',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Eslováquia'
     },
     {
       name: 'Slovenia',
@@ -1644,7 +1611,7 @@ export const countries: CountryI[] = [
       dialCode: '386',
       flagClass: 'si',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Eslovênia'
     },
     {
       name: 'Solomon Islands',
@@ -1652,7 +1619,7 @@ export const countries: CountryI[] = [
       dialCode: '677',
       flagClass: 'sb',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Ilhas Salomão'
     },
     {
       name: 'Somalia',
@@ -1660,7 +1627,7 @@ export const countries: CountryI[] = [
       dialCode: '252',
       flagClass: 'so',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Somália'
     },
     {
       name: 'South Africa',
@@ -1668,7 +1635,7 @@ export const countries: CountryI[] = [
       dialCode: '27',
       flagClass: 'za',
       priority: 0,
-      placeholder: ''
+      placeholder: 'África do Sul'
     },
     {
       name: 'Korea, Republic of South Korea',
@@ -1676,7 +1643,7 @@ export const countries: CountryI[] = [
       dialCode: '82',
       flagClass: 'kr',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Coreia do Sul'
     },
     {
       name: 'Spain',
@@ -1684,7 +1651,7 @@ export const countries: CountryI[] = [
       dialCode: '34',
       flagClass: 'es',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Espanha'
     },
     {
       name: 'Sri Lanka',
@@ -1692,7 +1659,7 @@ export const countries: CountryI[] = [
       dialCode: '94',
       flagClass: 'lk',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Sri Lanka'
     },
     {
       name: 'Sudan',
@@ -1700,7 +1667,7 @@ export const countries: CountryI[] = [
       dialCode: '249',
       flagClass: 'sd',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Sudão'
     },
     {
       name: 'Suriname',
@@ -1708,7 +1675,7 @@ export const countries: CountryI[] = [
       dialCode: '597',
       flagClass: 'sr',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Suriname'
     },
     {
       name: 'Svalbard and Jan Mayen',
@@ -1716,7 +1683,7 @@ export const countries: CountryI[] = [
       dialCode: '47',
       flagClass: 'sj',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Ilha Bouvet'
     },
     {
       name: 'Swaziland',
@@ -1724,7 +1691,7 @@ export const countries: CountryI[] = [
       dialCode: '268',
       flagClass: 'sz',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Suazilândia'
     },
     {
       name: 'Sweden',
@@ -1732,7 +1699,7 @@ export const countries: CountryI[] = [
       dialCode: '46',
       flagClass: 'se',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Suécia'
     },
     {
       name: 'Switzerland',
@@ -1740,7 +1707,7 @@ export const countries: CountryI[] = [
       dialCode: '41',
       flagClass: 'ch',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Suiça'
     },
     {
       name: 'Syrian Arab Republic',
@@ -1748,7 +1715,7 @@ export const countries: CountryI[] = [
       dialCode: '963',
       flagClass: 'sy',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Síria'
     },
     {
       name: 'Taiwan',
@@ -1756,7 +1723,7 @@ export const countries: CountryI[] = [
       dialCode: '886',
       flagClass: 'tw',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Taiwan'
     },
     {
       name: 'Tajikistan',
@@ -1764,7 +1731,7 @@ export const countries: CountryI[] = [
       dialCode: '992',
       flagClass: 'tj',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Tajiquistão'
     },
     {
       name: 'Tanzania, United Republic of Tanzania',
@@ -1772,7 +1739,7 @@ export const countries: CountryI[] = [
       dialCode: '255',
       flagClass: 'tz',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Tanzânia'
     },
     {
       name: 'Thailand',
@@ -1780,7 +1747,7 @@ export const countries: CountryI[] = [
       dialCode: '66',
       flagClass: 'th',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Tailândia'
     },
     {
       name: 'Timor-Leste',
@@ -1788,7 +1755,7 @@ export const countries: CountryI[] = [
       dialCode: '670',
       flagClass: 'tl',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Timor-Leste'
     },
     {
       name: 'Togo',
@@ -1796,7 +1763,7 @@ export const countries: CountryI[] = [
       dialCode: '228',
       flagClass: 'tg',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Togo'
     },
     {
       name: 'Tokelau',
@@ -1804,7 +1771,7 @@ export const countries: CountryI[] = [
       dialCode: '690',
       flagClass: 'tk',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Toquelau'
     },
     {
       name: 'Tonga',
@@ -1812,7 +1779,7 @@ export const countries: CountryI[] = [
       dialCode: '676',
       flagClass: 'to',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Tonga'
     },
     {
       name: 'Trinidad and Tobago',
@@ -1820,10 +1787,8 @@ export const countries: CountryI[] = [
       dialCode: '1 868',
       flagClass: 'tt',
       priority: 0,
-      areaCodes: [
-        '868'
-      ],
-      placeholder: ''
+      areaCodes: ['868'],
+      placeholder: 'Trindade e Tobago'
     },
     {
       name: 'Tunisia',
@@ -1831,7 +1796,7 @@ export const countries: CountryI[] = [
       dialCode: '216',
       flagClass: 'tn',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Tunísia'
     },
     {
       name: 'Turkey',
@@ -1839,7 +1804,7 @@ export const countries: CountryI[] = [
       dialCode: '90',
       flagClass: 'tr',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Turquia'
     },
     {
       name: 'Turkmenistan',
@@ -1847,7 +1812,7 @@ export const countries: CountryI[] = [
       dialCode: '993',
       flagClass: 'tm',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Turcomenistão'
     },
     {
       name: 'Turks and Caicos Islands',
@@ -1855,7 +1820,7 @@ export const countries: CountryI[] = [
       dialCode: '1 649',
       flagClass: 'tc',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Turks e Caicos'
     },
     {
       name: 'Tuvalu',
@@ -1863,7 +1828,7 @@ export const countries: CountryI[] = [
       dialCode: '688',
       flagClass: 'tv',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Tuvalu'
     },
     {
       name: 'Virgin Islands, U.S.',
@@ -1871,10 +1836,8 @@ export const countries: CountryI[] = [
       dialCode: '1 340',
       flagClass: 'vi',
       priority: 0,
-      areaCodes: [
-        '340'
-      ],
-      placeholder: ''
+      areaCodes: ['340'],
+      placeholder: 'Ilhas Virgens Americanas'
     },
     {
       name: 'Uganda',
@@ -1882,7 +1845,7 @@ export const countries: CountryI[] = [
       dialCode: '256',
       flagClass: 'ug',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Uganda'
     },
     {
       name: 'Ukraine',
@@ -1890,7 +1853,7 @@ export const countries: CountryI[] = [
       dialCode: '380',
       flagClass: 'ua',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Ucrânia'
     },
     {
       name: 'United Arab Emirates',
@@ -1898,7 +1861,7 @@ export const countries: CountryI[] = [
       dialCode: '971',
       flagClass: 'ae',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Emirados Árabes'
     },
     {
       name: 'United Kingdom',
@@ -1906,7 +1869,7 @@ export const countries: CountryI[] = [
       dialCode: '44',
       flagClass: 'gb',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Reino Unido'
     },
     {
       name: 'United States',
@@ -1914,7 +1877,7 @@ export const countries: CountryI[] = [
       dialCode: '1',
       flagClass: 'us',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Canadá'
     },
     {
       name: 'Uruguay',
@@ -1922,7 +1885,7 @@ export const countries: CountryI[] = [
       dialCode: '598',
       flagClass: 'uy',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Uruguai'
     },
     {
       name: 'Uzbekistan',
@@ -1930,7 +1893,7 @@ export const countries: CountryI[] = [
       dialCode: '998',
       flagClass: 'uz',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Uzbequistão'
     },
     {
       name: 'Vanuatu',
@@ -1938,7 +1901,7 @@ export const countries: CountryI[] = [
       dialCode: '678',
       flagClass: 'vu',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Vanuatu'
     },
     {
       name: 'Holy See (Vatican City State)',
@@ -1946,7 +1909,7 @@ export const countries: CountryI[] = [
       dialCode: '379',
       flagClass: 'va',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Vaticano'
     },
     {
       name: 'Venezuela, Bolivarian Republic of Venezuela',
@@ -1954,7 +1917,7 @@ export const countries: CountryI[] = [
       dialCode: '58',
       flagClass: 've',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Venezuela'
     },
     {
       name: 'Vietnam',
@@ -1962,7 +1925,7 @@ export const countries: CountryI[] = [
       dialCode: '84',
       flagClass: 'vn',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Vietnam'
     },
     {
       name: 'Wallis and Futuna',
@@ -1970,7 +1933,7 @@ export const countries: CountryI[] = [
       dialCode: '681',
       flagClass: 'wf',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Wallis e Futuna'
     },
     {
       name: 'Yemen',
@@ -1978,7 +1941,7 @@ export const countries: CountryI[] = [
       dialCode: '967',
       flagClass: 'ye',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Iêmen'
     },
     {
       name: 'Zambia',
@@ -1986,7 +1949,7 @@ export const countries: CountryI[] = [
       dialCode: '260',
       flagClass: 'zm',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Zâmbia'
     },
     {
       name: 'Zimbabwe',
@@ -1994,7 +1957,7 @@ export const countries: CountryI[] = [
       dialCode: '263',
       flagClass: 'zw',
       priority: 0,
-      placeholder: ''
+      placeholder: 'Zimbábue'
     },
     {
       name: 'Aland Islands',
@@ -2002,7 +1965,5 @@ export const countries: CountryI[] = [
       dialCode: '358',
       flagClass: 'ax',
       priority: 0,
-      placeholder: ''
-    }
-];
-
+      placeholder: 'Finlândia'
+    }];
